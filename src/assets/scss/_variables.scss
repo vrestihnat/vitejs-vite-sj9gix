@@ -3,7 +3,7 @@
 @import '/src/../node_modules/wave-ui/src/wave-ui/scss/_variables.scss';
 
 $base-font-size: 24px;
-$base-increment: calc($base-font-size/4);
+$base-increment: calc($base-font-size/2);
 $layout-padding: $base-increment * 4;
 $border-radius: 8px;
 $border: 1px solid rgba(0, 0, 0, 0.15);
